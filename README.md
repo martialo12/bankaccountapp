@@ -4,7 +4,7 @@
 >
 > - Read a .csv file of names, social security numbers, account type, and initial deposit.
 > - Use a proper data structure to hold all these accounts.
-> - Both savings and checking accounts share the following properties:
+> - Both savings and checking accounts share the following properties.
       * deposit()
       * withdraw()
       * transfer()
